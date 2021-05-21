@@ -61,5 +61,5 @@ It has working movement, enemy, HP / Shield and mechanics.
 <img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Under2.gif">\
 <img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Under3.gif">
 
-[Video #1](https://www.youtube.com/watch?v=_pWLi3TDIoA)
+[Video #1](https://www.youtube.com/watch?v=_pWLi3TDIoA)\
 [Video #2](https://www.youtube.com/watch?v=nmirj8rbvM4)
