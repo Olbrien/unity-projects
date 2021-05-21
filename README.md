@@ -1,4 +1,45 @@
-# unity-projects
-Unity projects I've made to practice different skills.
+# Projects
 
-On Online Chat you have to decompress the files at library 7 cache from both Android and PC.
+These are Unity projects I've made to practice different skills.
+
+To note every video recorded and gif made have incredible low quality. My computer isn't the best, can't record with decent FPS and colors.\
+The videos have better quality but they are still very low quality.
+
+# Imperial Poly
+
+I made this project to learn how to create a 3D environment.\
+Used post-processing.\
+Built every low-poly object by myself using Blender.
+
+https://www.youtube.com/watch?v=Vv7HuM1Vw3g
+
+![GitHub Logo](/Extras/Pictures/Imperial%20Poly1.png)
+
+<img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/ImperialPoly1.gif">
+
+# Udemy RPG 
+
+This is from a tutorial made by GameDev.tv on Udemy.com.\
+
+Again quality of the video is really bad can't record with decent FPS and the colors are really bad as well.
+
+![GitHub Logo](https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Udemy%20RPG1.png)\
+![GitHub Logo](https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Udemy%20RPG2.png)\
+![GitHub Logo](https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Udemy%20RPG3.png)\
+![GitHub Logo](https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Udemy%20RPG4.png)
+
+# Online Chat
+
+This is a project I made for a friend that wanted to do an horror short-movie (curta metragem).\
+You have two applications, one on your computer and one on your android.\
+Both connect to the same IP.\
+Both communicate with eachother. You can message from your phone and it appears on your computer, and vice-versa.\
+Handles multiple clients.
+
+
+
+
+
+Due to restrictions of github file sizes, if you want to run this project you have to unzip the files at:\
+[Here](https://github.com/Olbrien/unity-projects/tree/main/Online%20Chat/Command%20Prompt%20Type%20Thingy%20-%20Android%202/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_04B992084382901EAD161C7F56B09FEC)\
+[And Here](https://github.com/Olbrien/unity-projects/tree/main/Online%20Chat/Command%20Prompt%20Type%20Thingy%20-%20PC%202/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_604A4A32EA08D1A0C722FB462F49CF8F)
