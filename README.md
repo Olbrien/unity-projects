@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=Vv7HuM1Vw3g
 
 <img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/ImperialPoly1.gif">
 
+[Video #1](https://www.youtube.com/watch?v=Vv7HuM1Vw3g&feature=youtu.be)
+
 # Udemy RPG 
 
 This is from a tutorial made by GameDev.tv on Udemy.com.\
@@ -39,6 +41,12 @@ Handles multiple clients.
 
 <img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Communication.gif">
 
+Due to restrictions of github file sizes, if you want to run this project you have to unzip the files at:\
+[Here](https://github.com/Olbrien/unity-projects/tree/main/Online%20Chat/Command%20Prompt%20Type%20Thingy%20-%20Android%202/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_04B992084382901EAD161C7F56B09FEC)\
+[And Here](https://github.com/Olbrien/unity-projects/tree/main/Online%20Chat/Command%20Prompt%20Type%20Thingy%20-%20PC%202/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_604A4A32EA08D1A0C722FB462F49CF8F)
+
+[Video #1](https://www.youtube.com/watch?v=ILGVdLfn0-o&feature=youtu.be)
+
 
 # Imperial Undertale
 
@@ -53,7 +61,5 @@ It has working movement, enemy, HP / Shield and mechanics.
 <img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Under2.gif">\
 <img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Under3.gif">
 
-
-Due to restrictions of github file sizes, if you want to run this project you have to unzip the files at:\
-[Here](https://github.com/Olbrien/unity-projects/tree/main/Online%20Chat/Command%20Prompt%20Type%20Thingy%20-%20Android%202/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_04B992084382901EAD161C7F56B09FEC)\
-[And Here](https://github.com/Olbrien/unity-projects/tree/main/Online%20Chat/Command%20Prompt%20Type%20Thingy%20-%20PC%202/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_604A4A32EA08D1A0C722FB462F49CF8F)
+[Video #1](https://www.youtube.com/watch?v=_pWLi3TDIoA)
+[Video #2](https://www.youtube.com/watch?v=nmirj8rbvM4)
