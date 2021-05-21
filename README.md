@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=Vv7HuM1Vw3g
 # Udemy RPG 
 
 This is from a tutorial made by GameDev.tv on Udemy.com.\
+It was a good introduction to cinematics.
 
 Again quality of the video is really bad can't record with decent FPS and the colors are really bad as well.
 
@@ -33,11 +34,24 @@ Again quality of the video is really bad can't record with decent FPS and the co
 This is a project I made for a friend that wanted to do an horror short-movie (curta metragem).\
 You have two applications, one on your computer and one on your android.\
 Both connect to the same IP.\
-Both communicate with eachother. You can message from your phone and it appears on your computer, and vice-versa.\
+Both communicate with eachother. You can message from your phone and it appears on your computer, vice-versa, phone on phone, or pc on pc.\
 Handles multiple clients.
 
+<img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Communication.gif">
 
 
+# Imperial Undertale
+
+The reason I wanted to learn Unity was because I enjoyed Undertale so much.\
+My first project was making a similar fighting style.\
+It evolved into having an actually story and different approach but unfortunately I never finished it.\
+It was a good first project to learn Unity.
+
+It has working movement, enemy, HP / Shield and mechanics.
+
+<img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Under1.gif">\
+<img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Under2.gif">\
+<img src="https://github.com/Olbrien/unity-projects/blob/main/Extras/Pictures/Under3.gif">
 
 
 Due to restrictions of github file sizes, if you want to run this project you have to unzip the files at:\
